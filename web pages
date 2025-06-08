@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+        <p>Hello! my name is <strong>M.Padmalatha</strong></p>
+</header>
+<section class="section1 ">
+<h1 class ="min1">web development </h1>
+<p>web development involves creating websites and applications for the internet .it includes frotend ,backend,and full stack development </p>
+ <section class="section2">
+<h1=class="head1">Images</h1>
+<img class ="img"src="images.jpgs">
+<img class="img1" src ="web .jpg">
+</section >
+<section class="second3"
+<h1class ="min1">LINKS</h1>
+<a class ="a"href="https://www.w3schools.com/what is/" target ="blank">W3Schools </a>
+<a class ="a" href ="https://www.Geeksforgeeks .org/web technology/"target ="blank ">GEEKSFORGEEKS</a>
+</section >
+<section class ="second4">
+<button class ="btn" onclick ="showAlert( )">click here1</button >
+</section >
+<script src ="First. js "></script >
+</body>
+</html>
+
+
+
+
+     
